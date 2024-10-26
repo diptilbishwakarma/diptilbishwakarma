@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jue-han
+- 👋 Hi, I’m @jue-han (Diptil Bishwakarma)
 - 👀 I’m interested in programming, astronomy and music
 - 🌱 I’m currently learning python and database management.
 - 💞️ I’m looking to collaborate on nothing as of the moment
