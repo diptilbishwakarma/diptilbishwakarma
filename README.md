@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diptilbishwakarma (Diptil Bishwakarma)
 - 👀 I’m interested in programming, astronomy and music
-- 🌱 I’m currently learning python and database management.
+- 🌱 I’m currently learning C++ and JS.
 - 💞️ I’m looking to collaborate on nothing as of the moment
 - 📫 How to reach me: DM me on my socials.
 - 😄 Pronouns: He/Him/His
